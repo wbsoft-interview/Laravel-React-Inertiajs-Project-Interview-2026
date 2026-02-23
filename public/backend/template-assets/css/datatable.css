@@ -1,0 +1,44 @@
+.datatable-topper-nav{
+    padding:10px 0px;
+    --bs-gutter-x: 0;
+}
+
+
+.datatable-topper-nav .left-side p{
+    margin-bottom: 0px;
+    padding:7px 15px;
+    margin-right:5px;
+}
+.datatable-topper-nav .left-side p.active{
+    box-shadow: 0px 0px 4px 1px rgb(190, 190, 190);
+}
+.datatable-topper-nav .right-side a{
+    padding:7px 15px;
+}
+
+.datatable-topper-nav #filter_content{
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 0px 4px 1px rgb(190, 190, 190);
+    z-index: 10;
+    width: 325px;
+    top: 58px;
+    right: 139px;
+}
+.datatable-topper-nav #filter_content>h5{
+    padding-bottom:20px;
+    border-bottom:1px solid rgba(128, 128, 128, 0.525);
+}
+
+@media screen and (max-width:1200px){
+    table{
+        min-width:1000px;
+    }
+}
+
+@media screen and (max-width:768px){
+    .datatable-topper-nav .right-side{
+        margin-top:10px;
+        justify-content: flex-start!important;
+    }
+
+}

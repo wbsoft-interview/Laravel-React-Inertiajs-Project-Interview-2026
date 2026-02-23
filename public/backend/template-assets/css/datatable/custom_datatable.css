@@ -1,0 +1,26 @@
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    color: white !important;
+    background-color: #0d6efd;
+    background: linear-gradient(to bottom, #0d6efd 0%, #0d6efd 100%);
+    border:none;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    color: white!important;
+    background-color: #0d6efd;
+    background: linear-gradient(to bottom, #0d6efd 0%, #0d6efd 100%);
+    border:none;
+}
+
+tbody, td, tfoot, th, thead, tr {
+    border-width: 1px;
+}
+
+table.dataTable {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+.dataTables_wrapper .dataTables_filter input {
+    margin-bottom: 20px!important;
+    outline:none;
+}

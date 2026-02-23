@@ -1,0 +1,881 @@
+body {
+    height: 100%;
+    direction: ltr;
+}
+
+.custom-master-main-content {
+    min-height: 90vh;
+}
+
+#content .top-navbar ul>li>ul{
+    width: auto;
+    min-width: 300px;
+    max-width: 400px;
+    left: -260px;
+}
+
+.select2-container.select2-container--default.select2-container--open {
+    margin-top: -22px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 26px;
+}
+
+.select2-container .select2-selection--multiple {
+    min-height: 36px !important;
+}
+
+.custom-select2-form .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    margin-left: -10px;
+    margin-top: 22px;
+}
+
+.custom-text-left {
+    text-align: left;
+}
+
+.custom-table-pagination {
+    position: absolute;
+    margin-top: 0px;
+    text-align: right;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.5);
+    right: 16px;
+}
+
+.custom-table-pagination a {
+    color: rgba(0, 0, 0, 0.849);
+}
+
+.custom-blog-image-section {
+    height: 100px;
+    width: 100px;
+}
+
+.custom-blog-image-section img {
+    height: 80px;
+    width: 80px;
+}
+
+.custom-blog-image-section span#image_remove_buttton {
+    right: 100% !important;
+    left: 90px !important;
+    margin-top: -10px !important;
+}
+
+.custom-date-picker {
+    cursor: pointer;
+}
+
+.custom-time-picker {
+    padding: 18px 0px;
+    cursor: pointer;
+}
+
+.custom-float-right {
+    float: right;
+    margin-right: 20px !important;
+}
+
+.custom-media-left h4 {
+    font-size: 20px;
+}
+
+.custom-mail-details {
+    position: relative;
+}
+
+.custom-remove-icon {
+    position: absolute;
+    right: 0px;
+    top: 30px;
+}
+
+.custom-exam-id {
+    margin-top: 63px !important;
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+
+.custom-exam-table {
+    margin-top: 60px !important;
+    display: block;
+    width: 100px;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.custom-sidebar-open:not(.show) {
+    display: block;
+    /* display: block !important; */
+}
+
+.custom-sidebar-close {
+    display: none !important;
+    transition: 0.5s !important;
+}
+
+.custom-sidebar-submenu-active {
+    background: linear-gradient(118deg, #7267f067, rgba(115, 103, 240, 0.2));
+    border-radius: 5px;
+}
+
+.custom-sidebar-menu-active {
+    background: #ededed;
+    border-radius: 5px;
+}
+
+.max-width-900px {
+    max-width: 900px;
+}
+
+.select_imgWith_preview {
+    height: 100%;
+}
+
+.select_imgWith_preview img {
+    max-width: 150px;
+    max-height: 120px;
+}
+
+.customer-profile-image {
+    height: 150px !important;
+    width: 80% !important;
+}
+
+.custom-billing-invoice-header {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.custom-billing-invoice-header-right {
+    margin-top: 15px;
+}
+
+.custom-invoice-logo-section {
+    margin: 10px 20px 10px 0px;
+}
+
+.custom-issue-due-date-section {
+    margin-top: 10px;
+}
+
+.custom-issue-due-date-text-area {
+    margin-top: 27px;
+}
+
+.custom-billing-invoice-logo img {
+    height: 154px;
+    width: 328px;
+    margin-top: 0px;
+}
+
+.custom-invoice-to {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.custom-payment-section-body {
+    padding: 10px 0px 20px 0px;
+}
+
+.custom-payment-section-header {
+    padding: 8px 10px 0px 10px;
+}
+
+.custom-payment-section-heading-title {
+    margin-top: 7px;
+}
+
+.custom-service-item-header-body {
+    position: relative !important;
+}
+
+.custom-service-item-header-right {
+    position: absolute;
+    text-align: end;
+}
+
+.custom-invoice-common-padding {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.custom-footer-address {
+    font-weight: 700;
+    color: rgba(68, 68, 68, 0.589);
+}
+
+.custom-footer-right-text-block {
+    margin-top: 10px;
+}
+
+.custom-footer-right-text-block p {
+    margin-bottom: 21px;
+}
+
+.custom-readonly-bg-color {
+    background-color: rgb(73 73 73 / 3%);
+}
+
+.custom-cursor-pointer {
+    cursor: pointer;
+}
+
+.custom-payment-table-items {
+    color: rgb(119 118 118) !important;
+}
+
+.custom-payment-form-label {
+    font-weight: 600;
+}
+
+.custom-bill-pay-icon {
+    margin-right: 5px !important;
+}
+
+.custom-invoice-service-details-sub {
+    font-weight: 600;
+}
+
+.custom-invoice-client-service-add i {
+    margin-top: -3px !important;
+}
+
+.custom-invoice-client-service-add span {
+    margin-left: -18px !important;
+    margin-top: -5px !important;
+}
+
+.invoice-heading-block {
+    position: relative;
+}
+
+.invoice-heading-block p {
+    background-color: #6258cc;
+    padding: 10px 10px;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.invoice-heading-block .invoice-status-right {
+    position: absolute;
+    right: 0px;
+    background-color: rgb(173 142 0);
+}
+
+.invoice-heading-block .invoice-status-right i {
+    font-size: 16px;
+    top: 4px !important;
+    font-weight: 600;
+}
+
+.invoice-heading-block .invoice-status-right span {
+    margin-left: -18px !important;
+    margin-top: -5px !important;
+}
+
+.custom-w-100 {
+    min-width: 100px;
+}
+
+.custom-mx-w-250 {
+    max-width: 250px;
+}
+
+.custom-w-250 {
+    min-width: 250px;
+}
+
+.custom-cursor-pointer {
+    cursor: pointer;
+}
+
+#sidebar .sidebar-header h3 {
+    text-align: center;
+}
+
+#sidebar .sidebar-header .custom-sidebar-logo {
+    width: 65%;
+    margin-top: -20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sidebar .sidebar-header img {
+    width: 65%;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0%;
+}
+
+#sidebar.active .sidebar-header h3 {
+    height: 0px;
+}
+
+.custom-invoice-form-color {
+    height: 50px;
+}
+
+.custom-invoice-card-status {
+    padding-top: 10px !important;
+    padding-bottom: 15px !important;
+}
+
+.custom-invoice-card-status i {
+    margin-right: 0px !important;
+    font-size: 40px;
+    color: #198754;
+}
+
+.custom-invoice-card-status span {
+    padding-bottom: 15px;
+    font-size: 25px;
+    color: #198754;
+    font-weight: 900;
+}
+
+.custom-invoice-min-bold-color {
+    color: #000000a1;
+    font-size: 15px;
+}
+
+.custom-null-select2-body .select2-container .select2-selection {
+    padding: 20px !important;
+}
+
+.custom-null-select2-body-fex .select2-container .select2-selection {
+    padding: 8px !important;
+}
+
+.custom-project-icon {
+    top: 0px !important;
+    margin-right: 10px !important;
+}
+
+.custom-float-right-side {
+    float: right;
+}
+
+.custom-client-profile-button {
+    width: 120px;
+    justify-content: center;
+    margin: auto;
+}
+
+.custom-justify-content-center {
+    justify-content: center;
+}
+
+.cancel-invoice-search-icon {
+    margin-right: 10px !important;
+}
+
+.custom-invoice-details-btn {
+    width: 170px;
+    font-size: 15px;
+}
+
+.dashboard-card-color {
+    background-color: #7367f0;
+    border: 1px solid #7367f0;
+}
+
+/* Color Segment... */
+.dashboard-card-color:hover {
+    background-color: #685dd8 !important;
+}
+
+.dashboard-card-color:active {
+    background-color: #685dd8 !important;
+}
+
+.btn-primary {
+    background-color: #7367f0;
+    border: 1px solid #7367f0;
+}
+
+.btn-primary:hover {
+    background-color: #685dd8;
+}
+
+.btn-primary:active {
+    background-color: #685dd8 !important;
+}
+
+.btn-danger {
+    background-color: #ea5455;
+    border: 1px solid #ea5455;
+}
+
+.btn-danger:hover {
+    background-color: #d34c4d;
+    border: 1px solid #d34c4d;
+}
+
+.btn-danger:active {
+    background-color: #d34c4d !important;
+}
+
+.btn-success {
+    background-color: #28C76F;
+    border: 1px solid #28C76F !important;
+}
+
+.btn-success:active {
+    background-color: #24b364 !important;
+}
+
+.btn-success:hover {
+    background-color: #24b364 !important;
+}
+
+.custom-btn-danger {
+    background-color: #ea5455;
+    border: 1px solid #ea5455;
+    color: #ffffff;
+    cursor: no-drop;
+}
+
+.custom-btn-danger:hover {
+    background-color: #ea5455;
+    border: 1px solid #ea5455;
+    color: #ffffff;
+}
+
+.custom-btn-danger:active {
+    background-color: #ea5455 !important;
+    color: #ffffff;
+}
+
+.text-danger {
+    color: #ea5455 !important;
+}
+
+.aggregate-section p a.active {
+    background-color: #28C76F;
+}
+
+.custom-report-table-footer th {
+    background-color: #F2F2F2;
+}
+
+.invoice-print-button {
+    background-color: #00BAD1;
+}
+
+.invoice-download-button {
+    background-color: #7367f0;
+}
+
+.dashboard-card-info-color {
+    background-color: #00CFE8;
+}
+
+.dashboard-card-success-color {
+    background-color: #24B364;
+}
+
+.dashboard-card-danger-color {
+    background-color: #ea5455;
+}
+
+.custom-danger-color {
+    color: #ea5455 !important;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link{
+    background-color: #7367f0;
+}
+
+.custom-profile-security {
+    float: right;
+    padding: 5px 7px;
+}
+
+/* //For Media Library... */
+
+.custom-modal-dialog {
+    height: 100%;
+}
+
+.custom-add-media-block {
+    max-width: 150px;
+    position: absolute;
+    right: 15px;
+}
+
+.custom-add-media-block a {
+    padding: 2px 5px 5px 5px;
+    justify-content: center;
+}
+
+.custom-add-media-block .material-symbols-outlined {
+    margin-right: 5px !important;
+    top: 4px !important;
+}
+
+.dropzone {
+    border: 2px dashed #ccc;
+    text-align: center;
+    width: 100%;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.dropzone:hover {
+    transform: scale(1.00);
+}
+
+.dropzone-label {
+    font-size: 16px;
+    color: #777;
+}
+
+.custom-file-upload {
+    cursor: pointer;
+    width: 100%;
+    min-height: 150px;
+    padding: 10px 0px;
+    overflow: hidden;
+}
+
+.custom-file-upload input {
+    display: none;
+}
+
+#preview img {
+    max-width: 100%;
+    max-height: 200px;
+    margin-top: 10px;
+    padding: 5px 2px;
+}
+
+#progressBarContainer {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#progressBar {
+    width: 0;
+    height: 20px;
+    background-color: #4caf50;
+}
+
+#previewFU img {
+    max-width: 100%;
+    max-height: 200px;
+    margin-top: 10px;
+    padding: 5px 2px;
+}
+
+#progressBarContainerFU {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#progressBarFU {
+    width: 0;
+    height: 20px;
+    background-color: #4caf50;
+}
+
+.custom-media-upload-block {
+    margin-top: 30px;
+}
+
+.custom-media-upload-block .material-symbols-outlined {
+    display: block;
+}
+
+.photo-gallery-card-block {
+    background-color: #77777736;
+}
+
+.custom-provider-setting .select_imgWith_preview span#image_remove_buttton {
+    position: absolute !important;
+    right: 0px !important;
+}
+
+/* //For Media Library End... */
+
+/* //Sidebar Icon Change With Google Icon Code... */
+
+.custom-sidebar-menu-icon .dropdown-toggle::after {
+    content: '\e5cf';
+    font-family: 'Material Icons';
+    border: 0;
+    top: 7px;
+}
+
+#content #sidebarCollapse {
+    top: 3px;
+}
+
+/* //Sidebar Icon Change With Google Icon Code... */
+
+.table>:not(caption)>*>*{
+    background-color: transparent;
+}
+
+.select2-container .select2-selection--single{
+    padding: 4px;
+}
+
+.select2-container .select2-selection--single {
+    height: 37px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b{
+    margin-top: 27px;
+}
+
+.custom-header-menu-icon .material-symbols-outlined {
+    margin-top: 3px;
+}
+
+.custom-bg-green {
+    background-color: green;
+}
+
+.custom-bg-blue {
+    background-color: blue;
+}
+
+.min-width-1150 {
+    min-width: 1150px !important;
+}
+
+@media screen and (max-width: 1200px){
+    .min-width-1150 {
+        min-width: 1150px !important;
+    }
+}
+
+/* Common Problem for activation... */
+@media screen and (max-width: 992px) {
+
+    #content .main-content {
+        padding: 0px 15px;
+    }
+
+    #sidebar.active {
+        width: 80px !important;
+        height: 100% !important;
+        position: fixed !important;
+        overflow: visible !important;
+        top: 0 !important;
+        z-index: 99999;
+        float: left !important;
+        bottom: 0 !important;
+        transition: all 0.3s;
+    }
+
+    #sidebar.active ul li>a>span{
+        visibility: hidden;
+    }
+}
+
+/* Common Problem for activation end... */
+
+.custom-submit-button {
+    float: right;
+}
+
+.custom-submit-button .material-symbols-outlined {
+    top: 0px !important;
+    margin-right: 10px !important;
+}
+
+.custom-soft-setting .select_imgWith_preview input[type="file"]{
+    max-width: 250px;
+}
+
+.custom-soft-setting .select_imgWith_preview span#image_remove_buttton{
+    position: absolute !important;
+    right: 0px;
+}
+
+.table-responsive .dataTables_scroll{
+    padding-top: 15px;
+}
+
+/*
+POS Lay out Css.
+*/
+.custom-pos-lay-product-card p {
+    font-size: 13px;
+}
+.custom-w-80 {
+    width: 80%;
+}
+
+.custom-w-20 {
+    width: 20%;
+}
+
+.custom-w-70 {
+    width: 70%;
+}
+
+.custom-w-30 {
+    width: 30%;
+}
+
+.custom-product-filter-btn .btn {
+    width: 50%;
+    display: inline-block;
+}
+
+.custom-purchase-tabs li a {
+    font-size: 20px;
+    font-weight: 600;
+    color: #5f5f5ff5 !important;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.custom-purchase-tabs li a.active {
+    border: 1px dashed #00ac4d !important;
+}
+
+.custom-readonly-color {
+    background-color: #00000014 !important;
+}
+
+.custom-pur-sale-table-tr td b {
+    color: #000000a3;
+}
+
+.modal input.custom-danger-border {
+    border: 1px solid rgba(255, 0, 0, 0.705) !important;
+}
+
+.custom-bill-pay-button {
+    float: right;
+    padding: 2px 15px 7px 15px;
+}
+
+.custom-bill-pay-button .material-symbols-outlined {
+    top: 6px !important;
+    margin-right: 10px !important;
+}
+
+.custom-bill-pay-button .button-text {
+    margin-top: 0px !important;
+}
+
+.custom-invoice-card-status span {
+    padding-bottom: 15px;
+    font-size: 25px;
+    color: #198754;
+    font-weight: 900;
+}
+
+.custom-invoice-card-status .material-symbols-outlined {
+    font-size: 30px;
+}
+
+.main-content .row .material-symbols-outlined {
+    position: relative;
+    top: 6px;
+    left: 0;
+    margin-right: 5px;
+}
+
+.custom-main-content .row .material-symbols-outlined {
+    position: relative;
+    top: 6px;
+    left: 0;
+    margin-right: 18px;
+}
+
+.custom-bill-pay-button-row {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.custom-payment-section-header {
+    padding: 8px 10px 0px 10px;
+}
+
+.custom-footer-right-text-blocks p {
+    margin-bottom: 1.5rem;
+}
+
+.custom-float-right-side.btn {
+    padding: 5px 10px !important;
+}
+
+.custom-float-right-side {
+    float: right;
+}
+
+.custom-float-right-side .material-symbols-outlined {
+    top: 0px !important;
+}
+
+.custom-h-40 {
+    height: 40px;
+}
+
+.custom-add-new-supplier-btn {
+    margin-top: 25px;
+}
+
+.custom-add-new-supplier-btn .btn {
+    padding: 7px 20px 2px 20px;
+    font-size: 15px;
+    width: 100%;
+}
+
+.custom-text-justify {
+    text-align: justify;
+}
+
+.custom-add-new-supplier-btn .btn .material-symbols-outlined {
+    top: 0px !important;
+    margin-right: 0px !important;
+}
+
+.custom-max-width-100 {
+    max-width: 100% !important;
+}
+
+.card-image-block img{
+    height: 200px;
+    width: 100%;
+}
+
+/* Responsive Css... */
+@media (max-width: 991px) {
+    .custom-product-filter-btn .btn {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 768px) {
+    .custom-product-filter-btn .btn {
+        font-size: 16px;
+    }
+
+    .custom-footer-right-text-blocks-body {
+        margin-top: 1.5rem;
+    }
+}
+
+@media (max-width: 450px) {
+    .custom-product-filter-btn .btn {
+        font-size: 13px;
+    }
+}
+/*
+POS Lay out Css.
+*/

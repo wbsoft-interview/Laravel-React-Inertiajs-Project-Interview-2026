@@ -1,0 +1,22 @@
+
+  .table_page .table-container, .pagination-container{
+    padding:0px 80px;
+  }
+
+
+/* scrollbar hide of table-responsive */
+
+  .table-responsive::-webkit-scrollbar{
+    display:none;
+  }
+
+
+  /* table not collapse when screen size will be less than 1200px  */
+
+
+  @media screen and (max-width: 1200px){
+    table{
+        width: 1000px !important;
+        margin-right: 0;
+      }
+  }

@@ -1,0 +1,225 @@
+
+
+.custom-select2-form .select2-container .select2-selection--single {
+    height: 38px !important;
+}
+
+.custom-select2-form .select2-container--default .select2-selection--single {
+    border: 1px solid #e1e8ed;
+}
+
+.custom-select2-form .select2-container--default .select2-search--dropdown .select2-search__field {
+    border: 1px solid #e1e8ed !important;
+}
+
+.select2-container--default .select2-search--dropdown .select2-search__field:focus-visible {
+    border: 1px solid #e1e8ed !important;
+}
+
+.custom-select2-form .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    margin-left: -10px;
+    margin-top: 3px;
+}
+
+.custom-cursor-pointer {
+    cursor: pointer;
+}
+
+.box_feat {
+    padding: 165px 45px 0px 45px;
+    height: 100%;
+}
+
+.box_form .form-group {
+    margin-bottom: 10px;
+}
+
+.custom-font-16 {
+    font-size: 16px;
+}
+
+.bg-custom-success {
+    background: #e74e84;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 35px;
+}
+
+a.box_feat_about {
+    box-shadow: 2px 2px 2px 2px #d7d7d7;
+}
+
+a.box_feat_about:hover .custom-dr-img {
+    width: 100%;
+}
+
+.custom-dr-img {
+    width: 95%;
+    transition: 0.5s;
+    margin-bottom: 15px;
+}
+
+.custom-font-common-color {
+    color: #8b549c;
+}
+
+.custom-service-img{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.custom-service-font{
+    font-size:22px !important;
+}
+
+.custom-book-appoin-btn {
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+.custom-book-appoin-btn:hover {
+    background: #ff00c6 !important;
+    border: 1px solid #ff00c6 !important;
+    color: #ffffff !important;
+}
+
+.custom-book-appoin-btn:active {
+    background: #ff00c6 !important;
+    border: 1px solid #ff00c6 !important;
+    color: #ffffff !important;
+}
+
+.custom-book-appoin-btn:focus {
+    background: #ff00c6 !important;
+    border: 1px solid #ff00c6 !important;
+    color: #ffffff !important;
+}
+
+#logo_home h1 a{
+    background: url(../images/logo.png) no-repeat 0 0;
+}
+
+.custom-homepage-logo {
+    height: 45px;
+    margin-top: -10px;
+}
+
+
+/* Owl Carousel Start... */
+.custom-photo-gallery-block .owl-nav button {
+    position: absolute;
+    top: 50%;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.custom-photo-gallery-block .owl-nav button.owl-prev {
+    left: 0;
+    margin-top: -20px;
+}
+
+.custom-photo-gallery-block .owl-nav button.owl-next {
+    right: 0;
+    margin-top: -20px;
+}
+
+.custom-photo-gallery-block .owl-dots {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.custom-photo-gallery-block .owl-dots button.owl-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    background: #ccc;
+    margin: 0 3px;
+}
+
+.custom-photo-gallery-block .owl-dots button.owl-dot.active {
+    background-color: #e74e84;
+}
+
+.custom-photo-gallery-block .owl-dots button.owl-dot:focus {
+    outline: none;
+}
+
+.custom-photo-gallery-block .owl-nav button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.38) !important;
+}
+
+.custom-photo-gallery-block span {
+    font-size: 70px;
+    position: relative;
+    top: -5px;
+}
+
+.custom-photo-gallery-block .owl-nav button:focus {
+    outline: none;
+}
+
+.custom-testimonial-block .carousel-control-next,
+.carousel-control-prev{
+    margin-top: -25px;
+}
+
+.custom-testimonial-block .carousel-dots {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.custom-testimonial-block .carousel-dots button {
+    background-color: #ccc;
+    border: none;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    /* margin: 0 5px; */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.custom-testimonial-block .carousel-dots button.active {
+    background-color: #333;
+}
+
+.custom-testimonial-block .carousel {
+    height: 150px;
+    /* Adjust the height as needed */
+}
+
+.custom-200px {
+    height: 200px;
+}
+
+a.box_feat_about h3{
+    font-size: 20px;
+}
+
+@media (max-width: 768px) {
+    .custom-testimonial-block .carousel {
+        height: 200px;
+        /* Adjust the height for smaller screens */
+    }
+}
+
+@media (max-width: 576px) {
+    .custom-testimonial-block .carousel {
+        height: 200px;
+        /* Adjust the height for even smaller screens */
+    }
+}
+
+@media (max-width: 375px) {
+    .custom-testimonial-block .carousel {
+        height: 250px;
+        /* Adjust the height for even smaller screens */
+    }
+}

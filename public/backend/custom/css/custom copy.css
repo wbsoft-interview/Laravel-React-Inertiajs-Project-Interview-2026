@@ -1,0 +1,247 @@
+#toast-container>.toast-success {
+    font-size: 13px;
+    width: 300px;
+}
+
+#toast-container .toast-success {
+    background-color: #490d86 !important;
+}
+
+#toast-container .toast-error {
+    background-color: #ff0000 !important;
+}
+
+#toast-container .toast-progress {
+    background-color: #ffffff !important;
+    opacity: 1 !important;
+}
+
+#toast-container .toast-success .toast-title {
+    color: inherit !important;
+    font-size: 15px;
+}
+
+#toast-container .toast-success .toast-message {
+    color: inherit !important;
+    font-size: 13px;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    color: #ffffff !important;
+}
+
+.main-menu .navbar-header .navbar-brand .brand-logo img {
+    max-width: 100%;
+}
+
+.custom-navbar-header {
+    z-index: 999999;
+}
+
+.custom-backend-logo-image {
+    width: 90%;
+}
+
+.custom-sidebar-nav-toggle {
+    width: 10%;
+    ;
+}
+
+.custom-backend-logo-image a {
+    width: 100%;
+}
+
+.custom-backend-logo-image a img {
+    width: 90%;
+}
+
+.custom-box-shadow {
+    display: block !important;
+    border-bottom: 1px solid #00000024;
+    z-index: inherit;
+    margin-top: 35px;
+}
+
+.custom-sidebar-nav-toggle a {
+    margin-top: 33px !important;
+}
+
+.custom-question-image-body {
+    margin-top: 20px;
+}
+
+.custom-question-image-block {
+    margin-top: 40px;
+    margin-left: 21px;
+    position: absolute;
+}
+
+.custom-question-image {
+    margin-left: 30px;
+}
+
+@media (max-width: 575.98px) {
+    .hero .hero-img::before {
+        width: 30rem !important;
+        height: 30rem !important;
+    }
+}
+
+.custom-table-shortctboi {
+    border-bottom: 1px solid #d7dadd !important;
+}
+
+.custom-table-shortctboi thead tr {
+    border-bottom: 1px solid #d7dadd !important;
+}
+
+.dataTables_wrapper .dataTables_paginate,
+div.dataTables_wrapper .dataTables_info {
+    padding-top: 25px !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .current {
+    padding: 5px 10px !important;
+    border-radius: 25px !important;
+    background: #7367f0 !important;
+    color: white !important;
+}
+
+.text-violet {
+    color: violet;
+}
+
+.text-violet {
+    color: #FF5733;
+}
+
+.custom-card-header-title {
+    padding: 18px 0px 0px 25px !important;
+}
+
+.custom-card-header-title h4 {
+    margin: 0px !important;
+}
+
+.custom-input-group-prepend .input-group-text {
+    height: 100% !important;
+}
+
+.custom-main-menu-content-sidebar {
+    padding-bottom: 100px;
+}
+
+
+/* For table designing problem.... */
+
+.custom-table-modify table.dataTable thead tr,
+table.dataTable thead tr {
+    border-bottom: 0px solid transparent;
+}
+
+.custom-table-modify table.dataTable thead th,
+table.dataTable thead td {
+    border-bottom: 0px solid transparent;
+}
+
+.custom-table-modify table.dataTable tbody tr,
+table.dataTable tbody tr {
+    border-bottom: 0px solid transparent;
+}
+
+.custom-table-modify .dataTables_wrapper.no-footer .dataTables_scrollBody {
+    border-bottom: 1px solid #EBE9F1;
+}
+
+.custom-card-body .table-responsive {
+    overflow-x: inherit !important;
+}
+
+.custom-table-modify div.dataTables_length label {
+    margin-right: 11px;
+    margin-bottom: 15px !important;
+    margin-top: 0rem !important;
+}
+
+.custom-table-modify div.dataTables_wrapper div.dataTables_filter label {
+    margin-right: 11px;
+    margin-bottom: 10px !important;
+    margin-top: 25px !important;
+}
+
+.custom-table-modify div.dataTables_wrapper div.dataTables_filter input {
+    margin-top: -25px;
+}
+
+.custom-table-modify {
+    overflow: inherit !important;
+}
+
+.custom-table-modify .dataTables_scrollBody {
+    overflow: inherit !important;
+}
+
+.custom-table-modify .dataTables_scrollHead {
+    width: 100% !important;
+}
+
+.custom-table-modify .dataTables_scrollHeadInner {
+    width: 100% !important;
+}
+
+.custom-logo-input-file {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.custom-navbar-brand .brand-logo {
+    width: 150px !important;
+}
+
+.custom-navbar-brand .brand-logo img {
+    max-width: 100% !important;
+}
+
+.custom-file {
+    margin-left: -30px;
+}
+
+.custom-permission-check-box {
+    height: 13px;
+    width: 13px;
+    font-weight: 700;
+}
+
+.custom-permission-group-name {
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.custom-permission-name {
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.custom-mail-details {
+    display: flex;
+    position: relative;
+}
+
+.custom-mail-details .custom-remove-icon {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+
+@media (max-width: 767.98px) {
+    .custom-table-modify .dataTables_scrollBody {
+        overflow: auto !important;
+    }
+    .custom-card-body .table-responsive {
+        overflow-x: auto !important;
+    }
+}

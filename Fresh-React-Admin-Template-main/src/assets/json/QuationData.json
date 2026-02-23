@@ -1,0 +1,227 @@
+[
+    {
+        "question": "কোনটির কারণে মানুষ সম্পদ হয়ে উঠছে?",
+        "question_answer1": "আন্তর্জাতিকতা",
+        "question_answer2": "সৃজনশীলতা",
+        "question_answer3": "জ্ঞান",
+        "question_answer4": "সুনাগরিকত্ব",
+        "right_answer": "জ্ঞান",
+        "question_description": ""
+    },
+    {
+        "question": "Globalization ত্বরান্বিত হওয়ার কারণ কী?",
+        "question_answer1": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "question_answer2": "যোগাযোগ ব্যবস্থার উন্নয়ন",
+        "question_answer3": "শিক্ষার মান বৃদ্ধি",
+        "question_answer4": "সামাজিক উন্নয়ন",
+        "right_answer": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "question_description": ""
+    },
+    {
+        "question": "ICT শিক্ষক যে বিষয়ের প্রতি আলোকপাত করছিলেন-\ni. Information Technology\nii. Globalization\niii. Internationalization\nনিচের কোনটি সঠিক?",
+        "question_answer1": "i ও ii",
+        "question_answer2": "i ও iii",
+        "question_answer3": "ii ও iii",
+        "question_answer4": "i, ii ও iii",
+        "right_answer": "ii ও iii",
+        "question_description": ""
+    },
+    {
+        "question": "প্রোগ্রামিং ধারণার প্রবর্তক হিসেবে কাকে সম্মানিত করা হয়?",
+        "question_answer1": "লর্ড বায়রন",
+        "question_answer2": "চার্লস ব্যাবেজ",
+        "question_answer3": "অ্যাড়া লাভলেস",
+        "question_answer4": "স্টিভ জজনিয়াক",
+        "right_answer": "অ্যাড়া লাভলেস",
+        "question_description": ""
+    },
+    {
+        "question": "এনালিটিক্যাল ইঞ্জিন নামে যন্ত্রটি আরো কার্যকর করার কথা কে ভেবেছেন?",
+        "question_answer1": "চার্লস ব্যাবেজ",
+        "question_answer2": "লর্ড বায়রন",
+        "question_answer3": "অ্যাডা লাভলেস",
+        "question_answer4": "জেমস ক্লার্ক ম্যাক্সওয়েল",
+        "right_answer": "অ্যাডা লাভলেস",
+        "question_description": ""
+    },
+    {
+        "question": "টেলিভিশন চ্যানেল ব্যবহার করে পাঠদান করার পদ্ধতিকে কী বলা হয়?",
+        "question_answer1": "ই-লার্ন",
+        "question_answer2": "ই-লার্নার",
+        "question_answer3": "ই-লার্নিং",
+        "question_answer4": "ই-মেইল",
+        "right_answer": "ই-লার্নিং",
+        "question_description": ""
+    },
+    {
+        "question": "ই-লার্নিং হলো-\ni. সনাতন পদ্ধতির পাঠদানের বিকল্প\nii. সনাতন পদ্ধতির পাঠদানের বিকল্প নয়\niii. সনাতন পদ্ধতির পাঠদানের পরিপূরক\nনিচের কোনটি সঠিক?",
+        "question_answer1": "i ও ii",
+        "question_answer2": "i ও iii",
+        "question_answer3": "ii ও iii",
+        "question_answer4": "i, ii ও iii",
+        "right_answer": "i ও iii",
+        "question_description": ""
+    },
+    {
+        "question": "ই-গর্ভন্যান্স অর্থ কী?",
+        "question_answer1": "ই-সরকার",
+        "question_answer2": "ইন্টারনেট সরকার",
+        "question_answer3": "ইলেকট্রনিক সরকার",
+        "question_answer4": "ইসলামিক সরকার",
+        "right_answer": "ইলেকট্রনিক সরকার",
+        "question_description": ""
+    },
+    {
+        "question": "দেশে সুশাসনের পথ নিষ্কণ্টক করতে প্রয়োজন-",
+        "question_answer1": "ই-লার্নিং",
+        "question_answer2": "ই-গভর্ন্যান্স",
+        "question_answer3": "ই-পর্চা",
+        "question_answer4": "সুব্যবস্থা",
+        "right_answer": "ই-গভর্ন্যান্স",
+        "question_description": ""
+    },
+    {
+        "question": "তথ্যের ডিজিটালকরণের ফলে সিদ্ধান্তগ্রহণে কত শতাংশ সময় কম লাগছে?",
+        "question_answer1": "৫০-৬০",
+        "question_answer2": "৬০-৭০",
+        "question_answer3": "৮০-৯০",
+        "question_answer4": "৯০-১০০",
+        "right_answer": "৮০-৯০",
+        "question_description": ""
+    },
+    {
+        "question": "বর্তমানে গ্যাস, পানি ও বিদ্যুৎ বিল পরিশোধের সহজ উপায় কোনটি?",
+        "question_answer1": "সরাসরি অফিসে গিয়ে",
+        "question_answer2": "মোবাইলের মাধ্যমে",
+        "question_answer3": "ব্যাংকে গিয়ে",
+        "question_answer4": "এ টি এম বুথে গিয়ে",
+        "right_answer": "মোবাইলের মাধ্যমে",
+        "question_description": ""
+    },
+    {
+        "question": "ই-সেবা কেন্দ্রে বিভিন্ন দলিল বা পর্চার কপি প্রদানে দপ্তরের ক্ষমতা কত শতাংশ বৃদ্ধি পেয়েছে?",
+        "question_answer1": "১০ শতাংশ",
+        "question_answer2": "২০ শতাংশ",
+        "question_answer3": "৪০ শতাংশ",
+        "question_answer4": "৫০ শতাংশ",
+        "right_answer": "৪০ শতাংশ",
+        "question_description": ""
+    },
+    {
+        "question": "ডাক বিভাগের সাথে সম্পর্কিত ই-সেবা কোনটি?",
+        "question_answer1": "ই-পুর্জি",
+        "question_answer2": "ই-এমটিএস",
+        "question_answer3": "ই-পর্চা",
+        "question_answer4": "ই-টিকেটিং",
+        "right_answer": "ই-এমটিএস",
+        "question_description": ""
+    },
+    {
+        "question": "একটি দেশের বিকাশ ও কর্মসংস্থানের ক্ষেত্রে ---- এর কোনো বিকল্প নেই-",
+        "question_answer1": "নেটওয়ার্ক",
+        "question_answer2": "বাণিজ্য",
+        "question_answer3": "ইন্টারনেট",
+        "question_answer4": "চাকরি",
+        "right_answer": "বাণিজ্য",
+        "question_description": ""
+    },
+    {
+        "question": "নিচের কোনটি বিশেষায়িত সফটওয়‍্যার?",
+        "question_answer1": "ই-মেইল",
+        "question_answer2": "ফেসবুক",
+        "question_answer3": "ব্যাংকিং সফটওয়্যার",
+        "question_answer4": "টুইটার",
+        "right_answer": "ব্যাংকিং সফটওয়্যার",
+        "question_description": ""
+    },
+    {
+        "question": "নিচের কোনটি সামাজিক যোগাযোগের মাধ্যম?",
+        "question_answer1": "ফেসবুক",
+        "question_answer2": "ইন্টারনেট",
+        "question_answer3": "চ্যাটিং",
+        "question_answer4": "ই-মেইল",
+        "right_answer": "ফেসবুক",
+        "question_description": ""
+    },
+    {
+        "question": "ফেসবুক কত সালে আবিষ্কৃত হয়?",
+        "question_answer1": "২০০১",
+        "question_answer2": "২০০২",
+        "question_answer3": "২০০৩",
+        "question_answer4": "২০০৪",
+        "right_answer": "২০০৪",
+        "question_description": ""
+    },
+    {
+        "question": "কম্পিউটারে সংরক্ষিত বিশাল পরিমাণ তথ্য রাখতে কোন মাধ্যমটি ব্যবহৃত হয়?",
+        "question_answer1": "সিডি বা ডিভিডি রম",
+        "question_answer2": "রেডিও",
+        "question_answer3": "আইপড",
+        "question_answer4": "টেলিভিশন",
+        "right_answer": "সিডি বা ডিভিডি রম",
+        "question_description": ""
+    },
+    {
+        "question": "বিনোদনের কোন মাধ্যমটি এখন শিল্পের স্থান গ্রহণ করেছে?",
+        "question_answer1": "কম্পিউটার গেম",
+        "question_answer2": "টেলিভিশন",
+        "question_answer3": "বস্ত্র শিল্প",
+        "question_answer4": "কম্পিউটার",
+        "right_answer": "কম্পিউটার গেম",
+        "question_description": ""
+    },
+    {
+        "question": "পরিবর্তনশীল ডাটাকে সংকেতের মাধ্যমে প্রকাশ করাকে কী বলে?",
+        "question_answer1": "ডিজিটাল সংকেত",
+        "question_answer2": "কম্পিউটার সংকেত",
+        "question_answer3": "গতানুগতিক সংকেত",
+        "question_answer4": "এনালগ সংকেত",
+        "right_answer": "এনালগ সংকেত",
+        "question_description": ""
+    },
+    {
+        "question": "কাঁটা যুক্ত ঘড়ি কোনটি প্রদর্শন করে?",
+        "question_answer1": "গাণিতিক সংকেত",
+        "question_answer2": "এনালগ সংকেত",
+        "question_answer3": "ডিজিটাল সংকেত",
+        "question_answer4": "যুক্তিগত সংকেত",
+        "right_answer": "এনালগ সংকেত",
+        "question_description": ""
+    },
+    {
+        "question": "প্রযুক্তির কোন উপাদানটি আজ মানুষের হাতে হাতে পৌঁছে গেছে?",
+        "question_answer1": "স্মার্ট ফোন",
+        "question_answer2": "মোবাইল ফোন",
+        "question_answer3": "কম্পিউটার",
+        "question_answer4": "ল্যাপটপ",
+        "right_answer": "মোবাইল ফোন",
+        "question_description": ""
+    },
+    {
+        "question": "ইউনিয়ন পরিষদে বর্তমানে খোলা হয়েছে-",
+        "question_answer1": "ই-সেন্টার",
+        "question_answer2": "ই-সার্ভিস সেন্টার",
+        "question_answer3": "ইনফরমেশন সেল",
+        "question_answer4": "ইনফরমেশন সেন্টার",
+        "right_answer": "ইনফরমেশন সেন্টার",
+        "question_description": ""
+    },
+    {
+        "question": "বঙ্গবন্ধু স্যাটেলাইট-১” কোন তারিখে মহাকাশে প্রেরণ করা হয়?",
+        "question_answer1": "১২ মার্চ ২০১৮",
+        "question_answer2": "১২ এপ্রিল ২০১৮",
+        "question_answer3": "১২ মে ২০১৮",
+        "question_answer4": "১২ জুন ২০১৮",
+        "right_answer": "১২ মে ২০১৮",
+        "question_description": ""
+    },
+    {
+        "question": "বাংলাদেশ বিশ্বের কত তম রাষ্ট্র হিসেবে 'বঙ্গবন্ধু স্যাটেলাইট- ১' মহাকাশে প্রেরণ করে?",
+        "question_answer1": "৫৭ তম",
+        "question_answer2": "৫৮ তম",
+        "question_answer3": "৫৯ তম",
+        "question_answer4": "৬০ তম",
+        "right_answer": "৫৭ তম",
+        "question_description": ""
+    }
+]

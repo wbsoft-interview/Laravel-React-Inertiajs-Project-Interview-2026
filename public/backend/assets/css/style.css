@@ -1,0 +1,46 @@
+.post-fav .right {
+    position: absolute;
+    right: 15px;
+}
+
+.heart-fav {
+    color: red;
+}
+
+.custom-fav-folder .user-nav {
+    flex-direction: row !important;
+    align-items: none !important;
+}
+
+.custom-fav-folder .user-nav svg {
+    height: 18px;
+    width: 18px;
+    position: absolute;
+    top: 7px;
+    left: -15px;
+}
+
+.custom-fav-dropdown {
+    width: auto !important;
+}
+
+.toast-success {
+    background-color: rgb(8, 19, 177);
+}
+
+.toast-error {
+    background-color: rgb(182, 14, 14);
+}
+
+.toast-message {
+    color: white;
+    font-size: 16px;
+}
+
+.heart-fav {
+    color: red;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    display: none;
+}
