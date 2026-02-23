@@ -1,4 +1,4 @@
-# Hotel-Managemnt-System
+# Laravel-React-Inertiajs-Project-Interview-2026
 
 - First you should download the project.
 - Please setup your composer file by command.
