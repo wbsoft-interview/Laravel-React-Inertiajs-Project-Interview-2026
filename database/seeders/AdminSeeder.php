@@ -25,7 +25,7 @@ class AdminSeeder extends Seeder
                 'name' => 'superadmin',
                 'mobile' => '01774444000',
                 'login_mobile' => '01774444000',
-                'password' => Hash::make('Dinajpur@2021'),
+                'password' => Hash::make('123'),
                 'role' => 'superadmin',
                 'status' => 1,
             ]
@@ -38,7 +38,7 @@ class AdminSeeder extends Seeder
                 'name' => 'admin',
                 'mobile' => '01774444001',
                 'login_mobile' => '01774444001',
-                'password' => Hash::make('admin#123'),
+                'password' => Hash::make('123'),
                 'role' => 'admin',
                 'status' => 1,
                 'admin_id' => 1,
